@@ -1,9 +1,14 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "ASDRO"
+[params]
+  [params.contact]
+    email = "info@asdro.de"
+    phoneHuman = "+49 (0) 208 / 741 752 64"
+    phoneMachine = "+4920874175264"
 
 # RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
+# See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]

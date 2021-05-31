@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+  {{ partial "page-header" . }}
+
+  {{ if .Params.intro }}
+    {{ partial "page-intro" . }}
+  {{ end }}
+
+  {{ if .Params.services }}
+    <section class="section">
+      {{ partial "services-wrapper" .Params }}
+    </section>
+  {{ end }}
+
+  {{ if .Content }}
+    <section class="section{{ if .Params.intro }} pt-0{{ end }}{{ if .Params.customList }} styled-lists{{ end }}">
+      {{ partial "text-wrapper" . }}
+    </section>
+  {{ end }}
+
+  {{ if eq .Type "approach" }}
+    {{ partial "page-approach-template" . }}
+  {{ end }}
+{{ end }}

@@ -1,0 +1,26 @@
+<div class="container services-wrapper">
+  <div class="row">
+    {{ range .Services }}
+      <div class="col-md-4 col-12 mt-5 mb-4">
+        <div class="features">
+          <div class="image position-relative d-inline-block">
+            <i data-feather="{{ .icon }}" class="text-primary"></i>
+          </div>
+
+          <div class="content mt-3">
+            <h5>
+              {{ if .subpage }}
+                <a href="/pages/services/{{ .subpage }}" class="stretched-link text-dark">
+                  {{ .heading }}
+                </a>
+              {{ else }}
+                {{ .heading }}
+              {{ end }}
+            </h5>
+            <p class="text-muted mb-0">{{ .text }}</p>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>

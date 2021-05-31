@@ -80,22 +80,35 @@
             background-color: $dark;
             display: block;
             margin-bottom: 5px;
-            transition: transform .5s ease;   
+            transition: transform .5s ease;
             &:last-child {
                 margin-bottom: 0;
             }
         }
     }
-    
+
     //Buy button
     .buy-button {
         float: right;
         line-height: 68px;
+        > li {
+            line-height: initial;
+        }
         .login-btn-primary {
             display: none;
         }
         .login-btn-light {
             display: inline-block;
+        }
+    }
+    .buy-button,
+    .buy-menu-btn {
+        .dropdown {
+            .dropdown-toggle {
+                &:after {
+                    display: none;
+                }
+            }
         }
     }
     .navbar-toggle {
@@ -121,14 +134,14 @@
         }
     }
     .navbar-toggle {
-        &:hover, 
+        &:hover,
         &:focus,
-        .navigation-menu > li > a:hover, 
+        .navigation-menu > li > a:hover,
         &:focus {
             background-color: transparent;
         }
     }
-  
+
     .navigation-menu {
         list-style: none;
         margin: 0;
@@ -151,13 +164,13 @@
                 letter-spacing: 1px;
                 line-height: 24px;
                 text-transform: uppercase;
-                transition: all 0.5s;    
+                transition: all 0.5s;
                 font-family: $font-family-base;
                 padding-left: 15px;
                 padding-right: 15px;
                 &:hover,
                 &:active{
-                    color: $primary;    
+                    color: $primary;
                 }
             }
         }
@@ -184,7 +197,7 @@
     .menu-extras {
         float: right;
     }
-    
+
     &.scroll {
         background-color: $white;
         border: none;
@@ -194,7 +207,7 @@
                 > a {
                     color: $dark;
                 }
-                
+
                 > .menu-arrow {
                     border-color: $dark;
                 }
@@ -205,11 +218,11 @@
                     > .menu-arrow {
                         border-color: $primary;
                     }
-                } 
-            } 
+                }
+            }
         }
     }
-    
+
     &.defaultscroll{
         &.dark-menubar {
             .logo {
@@ -240,9 +253,9 @@
                     &.active {
                         > a {
                             color: $primary !important;
-                        }      
+                        }
                     }
-                    &:hover, 
+                    &:hover,
                     &.active {
                         > .menu-arrow {
                             border-color: $primary !important;
@@ -251,15 +264,15 @@
                             color: $primary !important;
                         }
                     }
-                } 
+                }
                 .has-submenu {
                     .menu-arrow {
-                        border-color: $dark; 
+                        border-color: $dark;
                     }
                 }
             }
         }
-        
+
         .buy-button {
             .login-btn-primary {
                 display: inline-block;
@@ -301,7 +314,7 @@
                                 border-color: transparent $white $white transparent;
                             }
                         }
-                    } 
+                    }
                 }
                 &:hover {
                     .menu-arrow {
@@ -313,7 +326,7 @@
                         top: 30px;
                     }
                 }
-            } 
+            }
             > li {
                 .submenu {
                     position: absolute;
@@ -404,7 +417,7 @@
                 &.active > a{
                     color: $primary !important;
                 }
-                
+
                 &.last-elements {
                     .submenu {
                         left: auto;
@@ -426,12 +439,12 @@
                 > li {
                     > a {
                         color: rgba($white, 0.5);
-                    }   
+                    }
                     &.active {
                         > a {
                             color: $white !important;
-                        }      
-                    }           
+                        }
+                    }
                     &:hover {
                         > .menu-arrow {
                             border-color: $white !important;
@@ -440,7 +453,7 @@
                             color: $white !important;
                         }
                     }
-                } 
+                }
                 .has-submenu {
                     .menu-arrow {
                         border-color: rgba($white, 0.5);
@@ -472,11 +485,11 @@
                     }
                 }
             }
-        }  
+        }
         .buy-button {
             padding-left: 15px;
             margin-left: 15px;
-        }      
+        }
         .navbar-toggle {
             display: none;
         }
@@ -506,7 +519,7 @@
         }
     }
 }
-  
+
 @media (max-width: 991px) {
     #topnav {
         background-color: $white;
@@ -703,6 +716,13 @@
             display: block !important;
             margin: 0 10px;
             padding: 10px 20px;
+            .dropdown {
+                .dropdown-menu {
+                    &.show {
+                        transform: translate3d(0px, -54px, 0px) !important;
+                    }
+                }
+            }
         }
         .navbar-toggle {
             .lines {

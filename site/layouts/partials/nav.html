@@ -1,19 +1,74 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+{{ $transparent := .Params.NavTransparent }}
 
-	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
-	</a>
+<header id="topnav" class="defaultscroll sticky{{ if not $transparent }} bg-white{{ end }}">
+	<div class="container">
+		<div>
+			<a class="logo" href="/">
+				{{ $logos := slice "dark" }}
+				{{ if $transparent }}
+					{{ $logos = slice "dark" "light"}}
+				{{ end }}
+				{{ range $logos }}
+					<img {{ if $transparent }}class="l-{{ . }}" {{ end }}src="/img/logo-{{ . }}.svg" height="20" alt="">
+				{{ end }}
+			</a>
+		</div>
+		<div class="buy-button">
 
-	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
+			{{ $ctaButtons := slice "primary" }}
+			{{ if $transparent }}
+				{{ $ctaButtons = slice "primary" "light" }}
+			{{ end }}
+			{{ range $ctaButtons }}
+				<a href="/contact" class="btn btn-{{ . }}{{ if $transparent }} login-btn-{{ . }}{{ end }}">Kontakt</a>
+			{{ end }}
+		</div>
 
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
+		<div class="menu-extras">
+			<div class="menu-item">
+				<a class="navbar-toggle">
+					<div class="lines">
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+				</a>
+			</div>
+		</div>
 
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
+		<div id="navigation">
+			<ul class="navigation-menu{{ if $transparent }} nav-light{{ end }}">
+				<li><a href="/">Home</a></li>
 
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul>
+				<li class="has-submenu">
+					<a href="/pages/fields/">Branchen</a><span class="menu-arrow"></span>
+					<ul class="submenu">
+						<li><a href="/pages/fields/civil-engineering/">Tiefbau</a></li>
+						<li><a href="/pages/fields/infrastructure/">Infrastruktur</a></li>
+						<li><a href="/pages/fields/energy-supply/">Öl und Gas</a></li>
+					</ul>
+				</li>
 
-</nav>
+				<li class="has-submenu">
+					<a href="/pages/services/">Leistungen</a><span class="menu-arrow"></span>
+					<ul class="submenu">
+						<li><a href="/pages/services/ordnance-probing/">Kampfmittelsondierung</a></li>
+						<li><a href="/pages/services/line-location/">Leitungsortung</a></li>
+						<li><a href="/pages/services/site-exploration/">Baugrunderkundung</a></li>
+						<li><a href="/pages/services/inspection/">Inspektion</a></li>
+						<!-- <li><a href="/pages/services/geo-physics/">Geophysik</a></li>
+						<li><a href="/pages/services/surveying/">Vermessung</a></li>
+						<li><a href="/pages/services/software/">Software</a></li> -->
+					</ul>
+				</li>
+				<li class="has-submenu">
+					<a href="/about/about-us/">Unternehmen</a><span class="menu-arrow"></span>
+					<ul class="submenu">
+						<li><a href="/about/about-us/">Über Asdro</a></li>
+						<li><a href="/pages/our-approach/">Unser Ansatz</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</header>
