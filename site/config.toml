@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "ASDRO"
+description = "Die Komplett-Lösung für die Vermessung, Inspektion & fachspezifische Bewertung von Oberflächen und Untergründen."
 googleAnalytics = "UA-46313065-5"
 [params]
   [params.contact]
