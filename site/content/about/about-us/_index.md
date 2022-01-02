@@ -23,10 +23,6 @@ team:
       image: /img/team/malin-chrzon.jpg
       position: Projects & Innovation
       ressort: M.Sc. Geophysik
-    - name: Catharina van Alen
-      image: /img/team/catharina-van-alen.jpg
-      position: Sales & Marketing
-      ressort: M.Sc. Geophysik
     - name: Jan Graßhof
       image: /img/team/jan-grasshof.jpg
       position: Technic & Processes
