@@ -6,7 +6,7 @@ title: Impressum
 
 #### ASDRO GmbH
 
-Duisburger Str. 375, 46049 Oberhausen
+Katernberger Str. 107, 45327 Essen
 
 
 ###### Vertreten durch:

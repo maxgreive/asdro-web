@@ -15,22 +15,26 @@ team:
       image: /img/team/alexander-weyer.jpg
       position: CTO
       ressort: R&D, Projects, Software
-    - name: Patrick Lendle
-      image: /img/team/patrick-lendle.jpg
-      position: Reporting & Austria
-      ressort: M.Sc. Geophysik
-    - name: Malin Chrzon
-      image: /img/team/malin-chrzon.jpg
-      position: Projects & Innovation
-      ressort: M.Sc. Geophysik
-    - name: Jan Graßhof
-      image: /img/team/jan-grasshof.jpg
-      position: Technic & Processes
-      ressort: B.Sc. Maschinenbau
     - name: Florian Scholz
       image: /img/team/florian-scholz.jpg
       position: GIS & Software
       ressort: B.Sc. Geoinformatik
+    - name: Samuel Dick
+      image: /img/team/samuel.jpg
+      position: Software / R&D
+      ressort: B.Sc. Physik
+    - name: Agnes
+      image: /img/team/agnes.jpg
+      position: Head of Projects
+      ressort: Dr. rer. Nat. Geowissenschaften
+    - name: Maxim
+      image: /img/team/maxim.jpg
+      position: Head of Drones
+      ressort: M.Sc. Geowissenschaften
+    - name: Mohammad
+      image: /img/team/mohammad.jpg
+      position: Technic / R&D
+      ressort: M.Sc. Maschinenbau
     - name: Peter Beautemps
       image:
       position: Account Manager
@@ -41,6 +45,6 @@ team:
 ---
 **ASDRO** ("Advanced & Specialized Drone Solutions") ist ein junges und dynamisches Unternehmen, welches branchenübergreifend im Bereich der Drohnenvermessung arbeitet.
 
-Das Startup wurde 2019 als Spin-off der Universität Münster gegründet und hat seinen Hauptsitz in Oberhausen, sowie einen weiteren Standort in Wien. ASDRO kombiniert autonome Datenaufnahme und automatisierte Datenverarbeitung für eine zukunftsweisende und effiziente Komplettlösung im Bereich der Oberflächen- und Untergrundvermessung.
+Das Startup wurde 2019 als Spin-off der Universität Münster gegründet und hat seinen Hauptsitz in Essen, sowie einen weiteren Standort in Wien. ASDRO kombiniert autonome Datenaufnahme und automatisierte Datenverarbeitung für eine zukunftsweisende und effiziente Komplettlösung im Bereich der Oberflächen- und Untergrundvermessung.
 
 Unser Anspruch ist es stets einen Schritt voraus zu sein um die Technologien und Lösungen von morgen zu entwickeln. Dazu können wir bereits jetzt Lösungen anbieten, die der Maßstab für fortschrittlichste und dabei präziseste Arbeit darstellt.
