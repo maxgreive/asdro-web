@@ -35,6 +35,9 @@ team:
       image: /img/team/mohammad-matysiak.jpg
       position: Technic / R&D
       ressort: M.Sc. Maschinenbau
+    - name: Nadja Ufer
+      image: /img/team/nadja-ufer.jpg
+      position: Office Manager
     - name: Peter Beautemps
       image:
       position: Account Manager
