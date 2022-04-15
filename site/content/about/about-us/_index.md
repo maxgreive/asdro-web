@@ -27,10 +27,6 @@ team:
       image: /img/team/agnes-matysiak.jpg
       position: Head of Projects
       ressort: Dr. rer. Nat. Geowissenschaften
-    - name: Maxim Bogdanowitsch
-      image: /img/team/maxim-matysiak.jpg
-      position: Head of Drones
-      ressort: M.Sc. Geowissenschaften
     - name: Mohammad Daowd
       image: /img/team/mohammad-matysiak.jpg
       position: Technic / R&D
