@@ -34,6 +34,9 @@ team:
     - name: Nadja Ufer
       image: /img/team/nadja-ufer.jpg
       position: Office Manager
+    - name: Dominik Krause
+      image: /img/team/dominik-krause.jpg
+      position: Drone Pilot
     - name: Peter Beautemps
       image:
       position: Account Manager
