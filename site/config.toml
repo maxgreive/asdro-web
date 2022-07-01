@@ -7,8 +7,8 @@ googleAnalytics = "UA-46313065-5"
   description = "Die Komplett-Lösung für die Vermessung, Inspektion & fachspezifische Bewertung von Oberflächen und Untergründen."
   [params.contact]
     email = "info@asdro.de"
-    phoneHuman = "+49 (0) 208 / 741 752 64"
-    phoneMachine = "+4920874175264"
+    phoneHuman = "+49 (0) 201 / 720 284 17"
+    phoneMachine = "+4920172028417"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
