@@ -41,7 +41,7 @@ team:
       image:
       position: Account Manager
     - name: Fabiana Rolemberg
-      image:
+      image: /img/team/fabiana-rolemberg.jpg
       position: Intern
 
 ---
