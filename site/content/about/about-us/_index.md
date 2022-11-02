@@ -40,7 +40,7 @@ team:
     - name: Peter Beautemps
       image:
       position: Account Manager
-    - name: Fabian Weidt
+    - name: Fabiana Rolemberg
       image:
       position: Intern
 
