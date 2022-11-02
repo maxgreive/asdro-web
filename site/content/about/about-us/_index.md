@@ -33,16 +33,11 @@ team:
     - name: Bastian Wingerath
       image: /img/team/bastian-wingerath.jpg
       position: Sales
+      ressort: B.Sc. Physik
     - name: Samuel Dick
       image: /img/team/samuel.jpg
       position: Software / R&D
       ressort: B.Sc. Physik
-    - name: Stefan von den Driesch
-      image: /img/team/stefan-von-den-driesch.jpg
-      position: Advisor
-    - name: Burkhard Unterstell
-      image: /img/team/burkhard-unterstell.jpg
-      position: Advisor
     - name: Peter Beautemps
       image:
       position: Account Manager
@@ -52,6 +47,12 @@ team:
     - name: Dominik Krause
       image: /img/team/dominik-krause.jpg
       position: Drone Pilot
+    - name: Stefan von den Driesch
+      image: /img/team/stefan-von-den-driesch.jpg
+      position: Advisor
+    - name: Burkhard Unterstell
+      image: /img/team/burkhard-unterstell.jpg
+      position: Advisor
 
 ---
 **ASDRO** ("Advanced & Specialized Drone Solutions") ist ein junges und dynamisches Unternehmen, welches branchenübergreifend im Bereich der Drohnenvermessung arbeitet.
