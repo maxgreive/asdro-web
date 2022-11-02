@@ -18,11 +18,7 @@ team:
     - name: Florian Scholz
       image: /img/team/florian-scholz.jpg
       position: GIS & Software
-      ressort: B.Sc. Geoinformatik
-    - name: Samuel Dick
-      image: /img/team/samuel.jpg
-      position: Software / R&D
-      ressort: B.Sc. Physik
+      ressort: M.Sc. Geoinformatik
     - name: Agnes Matysiak
       image: /img/team/agnes-matysiak.jpg
       position: Head of Projects
@@ -34,15 +30,28 @@ team:
     - name: Nadja Ufer
       image: /img/team/nadja-ufer.jpg
       position: Office Manager
-    - name: Dominik Krause
-      image: /img/team/dominik-krause.jpg
-      position: Drone Pilot
+    - name: Bastian Wingerath
+      image: /img/team/bastian-wingerath.jpg
+      position: Sales
+    - name: Samuel Dick
+      image: /img/team/samuel.jpg
+      position: Software / R&D
+      ressort: B.Sc. Physik
+    - name: Stefan von den Driesch
+      image: /img/team/stefan-von-den-driesch.jpg
+      position: Advisor
+    - name: Burkhard Unterstell
+      image: /img/team/burkhard-unterstell.jpg
+      position: Advisor
     - name: Peter Beautemps
       image:
       position: Account Manager
     - name: Fabiana Rolemberg
       image: /img/team/fabiana-rolemberg.jpg
       position: Intern
+    - name: Dominik Krause
+      image: /img/team/dominik-krause.jpg
+      position: Drone Pilot
 
 ---
 **ASDRO** ("Advanced & Specialized Drone Solutions") ist ein junges und dynamisches Unternehmen, welches branchenübergreifend im Bereich der Drohnenvermessung arbeitet.
