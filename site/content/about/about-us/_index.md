@@ -39,7 +39,7 @@ team:
       position: Software / R&D
       ressort: B.Sc. Physik
     - name: Peter Beautemps
-      image:
+      image: /img/team/peter-beautemps.jpg
       position: Account Manager
     - name: Fabiana Rolemberg
       image: /img/team/fabiana-rolemberg.jpg
