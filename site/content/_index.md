@@ -23,12 +23,16 @@ clients:
     #  label: "Bundesministerium für Wirtschaft und Energie"
     #- image: img/client/esri.svg
     #  label: "esri"
-    - image: img/client/siemens.svg
-      label: "Siemens"
     - image: img/client/goldbeck.svg
       label: "Goldbeck"
+    - image: img/client/siemens.svg
+      label: "Siemens"
     - image: img/client/oge.svg
       label: "OGE"
+    - image: img/client/panattoni.svg
+      label: "Panattoni"
+    - image: img/client/enercon.svg
+      label: "Enercon"
     # - image: img/client/evonik.svg
     #   label: "Evonik"
     # - image: img/client/telekom.svg
