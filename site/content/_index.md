@@ -29,8 +29,8 @@ clients:
       label: "Siemens"
     - image: img/client/oge.svg
       label: "OGE"
-    #- image: img/client/panattoni.svg
-    #  label: "Panattoni"
+    - image: img/client/panattoni.png
+      label: "Panattoni"
     #- image: img/client/enercon.svg
     #  label: "Enercon"
     # - image: img/client/evonik.svg
