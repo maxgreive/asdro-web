@@ -17,18 +17,18 @@ clients:
     #   label: "Duisport"
     # - image: img/client/siemens.svg
     #   label: "Siemens"
-    - image: img/client/dbu.svg
-      label: "DBU"
-    - image: img/client/ministerium.svg
-      label: "Bundesministerium für Wirtschaft und Energie"
-    - image: img/client/esri.svg
-      label: "esri"
+    #- image: img/client/dbu.svg
+    #  label: "DBU"
+    #- image: img/client/ministerium.svg
+    #  label: "Bundesministerium für Wirtschaft und Energie"
+    #- image: img/client/esri.svg
+    #  label: "esri"
+    - image: img/client/goldbeck.svg
+       label: "Goldbeck"
     - image: img/client/oge.svg
       label: "OGE"
     # - image: img/client/evonik.svg
     #   label: "Evonik"
-    # - image: img/client/goldbeck.svg
-    #   label: "Goldbeck"
     # - image: img/client/telekom.svg
     #   label: "Telekom"
 counter:
