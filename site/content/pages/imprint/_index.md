@@ -13,8 +13,8 @@ Katernberger Str. 107, 45327 Essen
 
 Julian Beautemps & Alexander Weyer
 
-###### Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz:
-DE323048435
+###### Umsatzsteuer-Identifikationsnummer:
+DE 329041947
 
 ### Haftungsausschluss:
 
