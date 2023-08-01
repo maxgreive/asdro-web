@@ -17,7 +17,7 @@ team:
       ressort: R&D, Projects, Software
     - name: Florian Scholz
       image: /img/team/florian-scholz.jpg
-      position: GIS & Software
+      position: Head of GIS & IT
       ressort: M.Sc. Geoinformatik
     - name: Agnes Matysiak
       image: /img/team/agnes-matysiak.jpg
