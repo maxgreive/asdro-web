@@ -15,5 +15,5 @@ intro:
   bulletpoints:
     - Detektion von Kampfmitteln im Baugrund durch zertifizierte Fachfirma nach §7 und § 20 SprengG
     - Blindgänger bis in eine Tiefe von 5 m
-    - Munitionsaltlasten ab Kaliber 7.5 cm
+    - Munitionsaltlasten ab Kaliber 5 cm
 ---
