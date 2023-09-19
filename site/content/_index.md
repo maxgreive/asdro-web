@@ -1,6 +1,6 @@
 ---
 headline: "ASDRO – Die Überflieger mit dem Durchblick"
-subtitle: "Die Komplett-Lösung für die Vermessung, Inspektion & fachspezifische Bewertung von Oberflächen und Untergründen."
+subtitle: "Die Komplett-Lösung für die Sondierung, Vermessung & fachspezifische Bewertung von Oberflächen und Untergründen."
 image: /img/header-asdro.jpg
 title: "Home"
 buttons:
