@@ -1,14 +1,14 @@
 ---
-title: Erneuerbare Energien
+title: Energie-Infrastruktur
 layout: pages
 image: /img/pages/header-oil-gas.jpg
 description: Erneuerbare Energien
 customList: true
 intro:
     image: /img/pages/intro-oil-gas.jpg
-    heading: Was bieten wir den Erneuerbaren Energien?
+    heading: Was bieten wir der Energie-Infrastruktur Branche?
     description:
-        Der Einsatz von Drohen liefert vielseitige Lösungen bei Projekten der Erneuerbaren Energien. Ob Trassenvorerkundung oder Baudokumentation, wir unterstützen Unternehmen in unterschiedlichen Bauphasen.
+        Der Einsatz von Drohen liefert vielseitige Lösungen bei Infastruktur Projekten. Ob Trassenvorerkundung oder Baudokumentation, wir unterstützen Unternehmen in unterschiedlichen Bauphasen.
     counter:
         target: 30
         label: präzise <br> Lokalisierung
@@ -18,7 +18,7 @@ intro:
         link: /contact
         label: Jetzt Angebot einholen
 main:
-    header: Drohnenlösungen für die Erneuerbaren Energien - Zerstörungsfrei und sicher
+    header: Drohnenlösungen für Energie-Trassen - Zerstörungsfrei und sicher
 bulletpoints:
     - Umfassende Vorerkundung der Geländeoberfläche und des Untergrundes
     - Detektion von Kampfmitteln im Baugrund durch zertifizierte Fachfirma nach §7 und § 20 SprengG
