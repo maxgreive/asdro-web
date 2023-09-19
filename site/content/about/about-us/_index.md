@@ -47,8 +47,11 @@ team:
     - name: Fabiana Rolemberg
       image: /img/team/fabiana-rolemberg.jpg
       position: Intern
-    - name: Dominik Krause
-      image: /img/team/dominik-krause.jpg
+    - name: Andreas Roleff
+      image: /img/team/andreas-roleff.jpg
+      position: Drone Pilot
+    - name: Kai Gorski
+      image: /img/team/kai-gorski.jpg
       position: Drone Pilot
     - name: Stefan von den Driesch
       image: /img/team/stefan-von-den-driesch.jpg
