@@ -36,7 +36,7 @@ team:
       
     - name: Samanta Caddeo
       image: /img/team/samanta-caddeo.jpg
-      position: Projectmanager / Drone Pilot
+      position: GIS / Software
     - name: Samuel Dick
       image: /img/team/samuel.jpg
       position: Software / R&D
