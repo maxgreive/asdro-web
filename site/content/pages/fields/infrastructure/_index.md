@@ -1,5 +1,5 @@
 ---
-title: Energie - Infrastruktur
+title: Erneuerbare Energien
 type: fields
 image: /img/pages/header-infrastructure.jpg
 description: >-
@@ -14,7 +14,7 @@ bulletpoints:
     - Hochpräzise Ergebnisse mit 1-2 cm Lagegenauigkeit und 2-3 cm Höhengenauigkeit
 intro:
     image: /img/pages/intro-infrastructure.jpg
-    heading: Was bieten wir der Infrastruktur-Branche?
+    heading: Was bieten wir den Erneuerbaren Energien?
     description:
         Drohnen erfassen schnell und geländeunabhängig den Ist-Zustand von Infrastrukturanlagen. Für Inspektionen und zur Vermessung sind Drohnen-Lösungen somit die kostengünstige Alternative zur Bodenvermessung und Anlagensichtung durch den Menschen.
     counter:
