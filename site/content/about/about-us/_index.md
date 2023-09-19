@@ -34,8 +34,8 @@ team:
       image: /img/team/bastian-wingerath.jpg
       position: Sales
       ressort: B.Sc. Physik
-    - name: Patrick Teriete
-      image: /img/team/patrick-teriete.jpg
+    - name: Samanta Caddeo
+      image: /img/team/samanta-caddeo.jpg
       position: Projectmanager / Drone Pilot
     - name: Samuel Dick
       image: /img/team/samuel.jpg
