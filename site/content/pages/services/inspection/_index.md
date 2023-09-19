@@ -1,5 +1,5 @@
 ---
-title: Vermessung
+title: Inspektion
 type: services
 image: /img/pages/header-inspection.jpg
 description: >-
