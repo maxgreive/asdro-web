@@ -1,5 +1,5 @@
 ---
-title: Inspektion
+title: Vermessung
 type: services
 image: /img/pages/header-inspection.jpg
 description: >-
@@ -9,9 +9,9 @@ description: >-
   anyone.
 intro:
   image: /img/pages/intro-inspection.jpg
-  heading: Anlageninspektion per Drohne
+  heading: Vermessung per Drohne
   description: >
-    Die turnusmäßige Inspektion von Infrastrukturanlagen ist notwendig, um Schäden rechtzeitig zu erkennen und zu beheben. Inspektion durch den Menschen ist mit einem großen zeitlichen Aufwand verbunden und birgt Herausforderungen durch unwegsames Gelände. Drohnenbasierte Messverfahren ermöglichen eine schnelle und hochpräzise Erfassung des Ist-Zustandes von Infrastrukturen – auch bei schwer zugänglichen Anlagen. Schäden können anhand des digitalen Abbilds der Anlage schnell erkannt und anschließend behoben werden. Die Inspektion läuft somit rein digital ab.
+    Bei der Drohnen-Photogrammetrie werden aktuelle und hochauflösende Aufnahmen der Oberfläche aus der Luft erstellt. Mithilfe dieser Bilder lassen sich 3D-Modelle aus den Bilddaten berechnen sowie 2D-Karten erstellen. Die Datensätze zeigen Flächen in einem aktuellen Zustand und sind hochauflösender als Satellitenbilder. Außerdem bietet diese Methode eine Lagegenauigkeit von 1 cm – 2 cm und eine Höhengenauigkeit von 2 cm – 3 cm.
   bulletpoints:
   - Turnusmäßige Dokumentation von Infrastrukturen zur Inspektionen
   - Georeferenzierte Orthofotos, Höhen- und 3D-Modelle
