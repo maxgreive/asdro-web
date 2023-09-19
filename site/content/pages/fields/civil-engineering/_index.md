@@ -1,14 +1,14 @@
 ---
-title: Erneuerbare Energien
+title: Baubranche
 layout: pages
 image: /img/pages/header-civil-eng.jpg
 description: Die Vermessung und Kartierung neuer Baugebiete/-grundstücke spielt oft für Bauvorhaben eine entscheidende Rolle.
 customList: true
 intro:
     image: /img/pages/intro-civil-eng.jpg
-    heading: Was bieten wir den Erneuerbaren Energien?
+    heading: Was bieten wir der Baubranche?
     description:
-        Drohnen-Technologien liefern diverse Lösungen bei Projekten der Erneuerbaren Energien. Von sicherer Baugrunderkundung bis zur turnusmäßigen Baudokumentation - Wir unterstützen Unternehmen in allen Bauphasen
+        Drohnen-Technologien liefern diverse Lösungen bei Projekten der Baubranche. Von sicherer Baugrunderkundung bis zur turnusmäßigen Baudokumentation - Wir unterstützen Unternehmen in allen Bauphasen
     counter:
         target: 10
         label: schnellere <br> Auftragszeiten
@@ -23,7 +23,7 @@ bulletpoints:
     - Detektion von metallischen Altlasten, Störkörpern oder archäologischen Strukturen
     - Turnusmäßige Dokumentation des Ist-Zustanden von Bauprojekten
 main:
-    header: Schnell, präzise und sicher – Drohnenanwendungen in den Erneuerbaren Energien 
+    header: Schnell, präzise und sicher – Drohnenanwendungen in der Baubranche 
 ---
 ##### Baugrundvorerkundung
 
