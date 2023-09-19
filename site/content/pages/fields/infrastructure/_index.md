@@ -1,5 +1,5 @@
 ---
-title: Infrastruktur
+title: Energie - Infrastruktur
 type: fields
 image: /img/pages/header-infrastructure.jpg
 description: >-
