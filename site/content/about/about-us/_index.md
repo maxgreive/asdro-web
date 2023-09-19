@@ -10,37 +10,37 @@ team:
     - name: Julian Beautemps
       image: /img/team/julian-beautemps.jpg
       position: CEO
-      ressort: Management, Strategy, Sales
+      
     - name: Alexander Weyer
       image: /img/team/alexander-weyer.jpg
       position: CTO
-      ressort: R&D, Projects, Software
+      
     - name: Florian Scholz
       image: /img/team/florian-scholz.jpg
       position: Head of GIS & IT
-      ressort: M.Sc. Geoinformatik
-    - name: Agnes Matysiak
+      
+    - name: Dr. Agnes Matysiak
       image: /img/team/agnes-matysiak.jpg
       position: Head of Projects
-      ressort: Dr. rer. Nat. Geowissenschaften
+      
     - name: Mohammad Daowd
       image: /img/team/mohammad-matysiak.jpg
       position: Technic / R&D
-      ressort: M.Sc. Maschinenbau
+      
     - name: Nadja Ufer
       image: /img/team/nadja-ufer.jpg
       position: Office Manager
     - name: Bastian Wingerath
       image: /img/team/bastian-wingerath.jpg
       position: Sales
-      ressort: B.Sc. Physik
+      
     - name: Samanta Caddeo
       image: /img/team/samanta-caddeo.jpg
       position: Projectmanager / Drone Pilot
     - name: Samuel Dick
       image: /img/team/samuel.jpg
       position: Software / R&D
-      ressort: B.Sc. Physik
+      
     - name: Peter Beautemps
       image: /img/team/peter-beautemps.jpg
       position: Account Manager
