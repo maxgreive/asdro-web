@@ -1,14 +1,14 @@
 ---
-title: Öl und Gas
+title: Erneuerbare Energien
 layout: pages
 image: /img/pages/header-oil-gas.jpg
-description: Öl und Gas
+description: Erneuerbare Energien
 customList: true
 intro:
     image: /img/pages/intro-oil-gas.jpg
-    heading: Was bieten wir der Öl- und Gasbranche?
+    heading: Was bieten wir den Erneuerbaren Energien?
     description:
-        Der Einsatz von Drohen liefert vielseitige Lösungen in der Öl- und Gasbranche. Ob Trassenvorerkundung oder Baudokumentation, wir unterstützen Unternehmen in unterschiedlichen Bauphasen.
+        Der Einsatz von Drohen liefert vielseitige Lösungen bei Projekten der Erneuerbaren Energien. Ob Trassenvorerkundung oder Baudokumentation, wir unterstützen Unternehmen in unterschiedlichen Bauphasen.
     counter:
         target: 30
         label: präzise <br> Lokalisierung
@@ -18,7 +18,7 @@ intro:
         link: /contact
         label: Jetzt Angebot einholen
 main:
-    header: Drohnenlösungen für die Öl- und Gasbranche - Zerstörungsfrei und sicher
+    header: Drohnenlösungen für die Erneuerbaren Energien - Zerstörungsfrei und sicher
 bulletpoints:
     - Umfassende Vorerkundung der Geländeoberfläche und des Untergrundes
     - Detektion von Kampfmitteln im Baugrund durch zertifizierte Fachfirma nach §7 und § 20 SprengG
