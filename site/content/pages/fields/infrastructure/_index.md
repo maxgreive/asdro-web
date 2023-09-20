@@ -18,8 +18,8 @@ intro:
     description:
         Drohnen erfassen schnell und geländeunabhängig den Ist-Zustand von Infrastrukturanlagen. Für Inspektionen und zur Vermessung sind Drohnen-Lösungen somit die kostengünstige Alternative zur Bodenvermessung und Anlagensichtung durch den Menschen.
     counter:
-        target: 50
-        label: kostengünstiger
+        target: 100
+        label: zerstörungsfrei
         suffix: "%"
     button:
         link: /contact
