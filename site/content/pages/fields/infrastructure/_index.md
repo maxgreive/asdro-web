@@ -25,10 +25,10 @@ intro:
         link: /contact
         label: Jetzt Angebot einholen
 main:
-    header: Präzise und schnelle Erfassung von Infrastrukturanlagen mittels Drohne
+    header: Präzise und schnelle Erfassung von Wind- und Solarparks mittels Drohne
 ---
 
-Eine turnusmäßige Inspektion und Vermessung von Infrastrukturanlagen ist erforderlich, um Schäden rechtzeitig zu erkennen und zu beheben. Inspektionen durch den Menschen und bodengebundene Vermessungen sind mit einem großen zeitlichen Aufwand verbunden.
+Eine Sondierung und Vermessung von Wind- und Solarparks ist erforderlich, um Risiken rechtzeitig zu erkennen und zu beheben. Sondierungen durch den Menschen und bodengebundene Vermessungen sind mit einem großen zeitlichen Aufwand verbunden.
 
-Der Einsatz von Drohnen ermöglicht eine schnelle und hochpräzise Erfassung von Infrastrukturen aus der Luft - auch bei schwer zugänglichen Anlagen. Die Inspektion erfolgt anschließend anhand des digitalen Abbildes der Anlage. Durch die schnelle Projektabwicklung und hohe Datenqualität bietet der Einsatz von Drohnen zur Anlageninspektion und -vermessung Unternehmen eine kostengünstige Alternative zu konventionellen Methoden.
+Der Einsatz von Drohnen ermöglicht eine schnelle und hochpräzise Erfassung von Störkörpern, Leitungen und vermessungsrelevanten Flächen aus der Luft - auch bei schwer zugänglichen Flächen. Durch die schnelle Projektabwicklung und hohe Datenqualität bietet der Einsatz von Drohnen zur Sondierung und -vermessung Unternehmen eine effiziente Alternative zu konventionellen Methoden.
 
