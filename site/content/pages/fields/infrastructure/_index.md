@@ -9,14 +9,14 @@ description: >-
   anyone.
 customList: true
 bulletpoints:
-    - Turnusmäßige Dokumentation von Infrastrukturen zur Inspektionen
-    - Georeferenzierte Orthofotos, Höhen- und 3D-Modelle
-    - Hochpräzise Ergebnisse mit 1-2 cm Lagegenauigkeit und 2-3 cm Höhengenauigkeit
+    - Keine Betretungserlaubnis erforderlich für die Sondierung
+    - Bestellte Felder können einfach überflogen werden
+    - Weniger Stress mit den Flächeneigentümern!
 intro:
     image: /img/pages/intro-infrastructure.jpg
     heading: Was bieten wir den Erneuerbaren Energien?
     description:
-        Drohnen erfassen schnell und geländeunabhängig den Ist-Zustand von Infrastrukturanlagen. Für Inspektionen und zur Vermessung sind Drohnen-Lösungen somit die kostengünstige Alternative zur Bodenvermessung und Anlagensichtung durch den Menschen.
+        Drohnen erfassen schnell und geländeunabhängig den Ist-Zustand von Wind- und Solarpark-Flächen. Durch den Einsatz von Drohnen können bestellte Felder auch ohne Betretungserlaubnis auf Kampfmittel oder archäologische Verdachtsfälle überprüft werden und bietet eine kostengünstige Alternative zur Bodenvermessung durch den Menschen.
     counter:
         target: 100
         label: zerstörungsfrei
