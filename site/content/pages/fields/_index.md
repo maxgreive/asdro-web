@@ -15,14 +15,14 @@ accordion:
   - title: Energie - Infrastruktur
     description: >
       Präzise Vermessung und Inspektion von Gebäuden und Anlagen durch Drohnen - Die schnelle und kostengünstige Alternative zur Bodenvermessungen und Inspektion durch den Menschen
-    image: /img/pages/harbor.jpg
+    image: /img/pages/pipeline.jpg
     link:
       url: /pages/fields/infrastructure
       label: Mehr zu Energie - Infrastruktur
   - title: Erneuerbare Energien
     description: >
       Trassenvorerkundung, Baudokumentation oder Inspektion von Anlagen – Wir liefern diverse Lösungen für Unternehmen der Erneuerbaren Energien
-    image: /img/pages/pipeline.jpg
+    image: /img/pages/header-infrastructure.jpg
     link:
       url: /pages/fields/energy-supply
       label: Mehr zu Erneuerbare Energien
