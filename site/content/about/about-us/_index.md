@@ -44,9 +44,6 @@ team:
     - name: Peter Beautemps
       image: /img/team/peter-beautemps.jpg
       position: Account Manager
-    - name: Fabiana Rolemberg
-      image: /img/team/fabiana-rolemberg.jpg
-      position: Intern
     - name: Andreas Roleff
       image: /img/team/andreas-roleff.jpg
       position: Drone Pilot
