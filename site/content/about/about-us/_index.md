@@ -30,6 +30,7 @@ team:
     - name: Nadja Ufer
       image: /img/team/nadja-ufer.jpg
       position: Office Manager
+      
     - name: Bastian Wingerath
       image: /img/team/bastian-wingerath.jpg
       position: Sales
@@ -44,15 +45,15 @@ team:
     - name: Peter Beautemps
       image: /img/team/peter-beautemps.jpg
       position: Account Manager
+      
     - name: Andreas Roleff
       image: /img/team/andreas-roleff.jpg
       position: Drone Pilot
-    - name: Kai Gorski
-      image: /img/team/kai-gorski.jpg
-      position: Drone Pilot
+      
     - name: Stefan von den Driesch
       image: /img/team/stefan-von-den-driesch.jpg
       position: Advisor
+      
     - name: Burkhard Unterstell
       image: /img/team/burkhard-unterstell.jpg
       position: Advisor
